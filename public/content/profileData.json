@@ -1,0 +1,1266 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "niklaspeterson",
+    "displayName": "Niklas Peterson",
+    "profession": "Designer and Creator",
+    "location": "Sweden",
+    "pronouns": null,
+    "byline": "Designer and Creator in Sweden",
+    "website": "niklaspeterson.com",
+    "websiteURL": "http://niklaspeterson.com",
+    "about": "I'm Niklas Peterson, a father of two, passionate about  design, technology and innovation. Currently shaping experiences as a Senior Product Designer at LottieFiles.\\\n\\\nOutside work, you'll find me cherishing quality time with my family. In my free moments, I enjoy exploring design and coding. I've created two iOS apps, [Titls](https://apps.apple.com/app/titls/id1579078964) & [Hydrify](https://apps.apple.com/app/hydrify/id6450311759). These are personal projects that let me scratch that creative itch by seamlessly blending design, development, and tech.",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Projects",
+      "Side Projects",
+      "Work Experience",
+      "Education",
+      "Awards",
+      "Certifications",
+      "Writing",
+      "Speaking",
+      "Features",
+      "Teams",
+      "Exhibitions",
+      "Volunteering",
+      "Contact"
+    ]
+  },
+  "projects": [
+    {
+      "id": "ksGEchjW8LdOalPTHDmP",
+      "year": "2024",
+      "heading": "Lummi Figma plugin at Blush Design Inc.",
+      "url": "https://www.figma.com/community/plugin/1326615072959029075/lummi",
+      "collaborators": [],
+      "description": "Designed the Lummi Figma plugin with a focus on usability, simplicity, and ease of use, while ensuring it consistently reflected the Lummi web experience. Key features of the plugin include quick image insertion, the ability to randomly insert multiple images, and components such as the home feed, categories, filters, and creator profiles.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1920,
+          "height": 1080,
+          "url": "/content/media/Lummi-Figma-plugin-at-Blush-Design-Inc-1.png"
+        },
+        {
+          "type": "video",
+          "width": 1280,
+          "height": 720,
+          "url": "/content/media/Lummi-Figma-plugin-at-Blush-Design-Inc-2.mp4"
+        }
+      ],
+      "type": "project",
+      "title": "Lummi Figma plugin",
+      "company": "Blush Design Inc."
+    },
+    {
+      "id": "RVICDv6ekikPRx7fyY70",
+      "year": "2024",
+      "heading": "Lummi web at Blush Design Inc.",
+      "url": "https://lummi.ai",
+      "collaborators": [
+        {
+          "displayName": "CaptExcellent",
+          "profilePhoto": "/content/collaborators/captexcellent.jpg",
+          "profileURL": "https://read.cv/captexcellent"
+        },
+        {
+          "displayName": "Pablo Stanley",
+          "profilePhoto": "/content/collaborators/pablostanley.jpg",
+          "profileURL": "https://read.cv/pablostanley"
+        },
+        {
+          "displayName": "Gaby Araujo",
+          "profilePhoto": "/content/collaborators/gzampino.jpg",
+          "profileURL": "https://read.cv/gzampino"
+        }
+      ],
+      "description": "Designed and implemented the Lummi design system, ensuring consistency and usability across the product. Contributed to major features of the platform, such as filters, image detail view, and upload flow, among others, with a focus on creating a cohesive and efficient user experience throughout the entire product.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 5760,
+          "height": 3240,
+          "url": "/content/media/Lummi-web-at-Blush-Design-Inc-1.png"
+        },
+        {
+          "type": "image",
+          "width": 5760,
+          "height": 3240,
+          "url": "/content/media/Lummi-web-at-Blush-Design-Inc-2.png"
+        },
+        {
+          "type": "image",
+          "width": 5760,
+          "height": 3240,
+          "url": "/content/media/Lummi-web-at-Blush-Design-Inc-3.png"
+        },
+        {
+          "type": "video",
+          "width": 1280,
+          "height": 720,
+          "url": "/content/media/Lummi-web-at-Blush-Design-Inc-4.mp4"
+        }
+      ],
+      "type": "project",
+      "title": "Lummi web",
+      "company": "Blush Design Inc."
+    },
+    {
+      "id": "qPunhHk5K0OjYkrSc1ev",
+      "year": "2023",
+      "heading": "Musho at Blush Design Inc.",
+      "url": "https://musho.ai",
+      "collaborators": [
+        {
+          "displayName": "CaptExcellent",
+          "profilePhoto": "/content/collaborators/captexcellent.jpg",
+          "profileURL": "https://read.cv/captexcellent"
+        },
+        {
+          "displayName": "Pablo Stanley",
+          "profilePhoto": "/content/collaborators/pablostanley.jpg",
+          "profileURL": "https://read.cv/pablostanley"
+        },
+        {
+          "displayName": "Gaby Araujo",
+          "profilePhoto": "/content/collaborators/gzampino.jpg",
+          "profileURL": "https://read.cv/gzampino"
+        }
+      ],
+      "description": "Led the design of the Musho website, incorporating interactive elements and animations to enhance user engagement and overall user experience. Contributed to shaping the brand identity by refining the visual style, color palette, and typography, ensuring a cohesive and recognizable look across all touchpoints. Focused on creating a seamless, visually appealing interface that aligns with the brand’s values and goals.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 1776,
+          "url": "/content/media/Musho-at-Blush-Design-Inc-1.png"
+        },
+        {
+          "type": "video",
+          "width": 1920,
+          "height": 1128,
+          "url": "/content/media/Musho-at-Blush-Design-Inc-2.mov"
+        },
+        {
+          "type": "image",
+          "width": 3840,
+          "height": 2880,
+          "url": "/content/media/Musho-at-Blush-Design-Inc-3.png"
+        },
+        {
+          "type": "image",
+          "width": 3840,
+          "height": 2880,
+          "url": "/content/media/Musho-at-Blush-Design-Inc-4.png"
+        }
+      ],
+      "type": "project",
+      "title": "Musho",
+      "company": "Blush Design Inc."
+    },
+    {
+      "id": "hBhMjSyl1LWtcC2kfJUB",
+      "year": "2023",
+      "heading": "Musho Figma Plugin at Blush Design Inc.",
+      "url": "https://www.figma.com/community/plugin/1302057916867700387/musho-ai",
+      "collaborators": [],
+      "description": "Created various components and views of the Figma plugin. Additionally, designed a concept for the plugin to use a chat-based AI interface instead of an action-based approach.",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 1920,
+          "height": 1128,
+          "url": "/content/media/Musho-Figma-Plugin-at-Blush-Design-Inc.mov"
+        }
+      ],
+      "type": "project",
+      "title": "Musho Figma Plugin",
+      "company": "Blush Design Inc."
+    },
+    {
+      "id": "SvjJBanF3oRTpTrr6aRO",
+      "year": "2023",
+      "heading": "Buenoverse at Blush Design Inc.",
+      "url": "https://worlds.bueno.art",
+      "collaborators": [
+        {
+          "displayName": "CaptExcellent",
+          "profilePhoto": "/content/collaborators/captexcellent.jpg",
+          "profileURL": "https://read.cv/captexcellent"
+        },
+        {
+          "displayName": "Brent Riddell",
+          "profilePhoto": "/content/collaborators/brentriddell.jpg",
+          "profileURL": "https://read.cv/brentriddell"
+        }
+      ],
+      "description": "Designed the UI for avatar selection in Buenoverse, creating an intuitive, visually appealing interface for players and explorers. The design prioritizes ease of use and flexibility, enabling seamless avatar customization with advanced tools and dynamic visuals. I ensured smooth navigation, interactive feedback, and a cohesive aesthetic to enhance the user experience and foster creativity.",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 1920,
+          "height": 1020,
+          "url": "/content/media/Buenoverse-at-Blush-Design-Inc.mov"
+        }
+      ],
+      "type": "project",
+      "title": "Buenoverse",
+      "company": "Blush Design Inc."
+    },
+    {
+      "id": "RJbCfpzKjAYT3IBw8t5S",
+      "year": "2023",
+      "heading": "Bueno Drops Figma Plugin at Blush Design Inc.",
+      "url": "https://www.figma.com/community/plugin/1271396551618777105/bueno-drops",
+      "collaborators": [],
+      "description": "As the lead designer for the Bueno Drops Figma Plugin, I was responsible for creating an intuitive user experience that allows artists to easily convert their designs in Figma into digital art without the need for coding. I streamlined the user flow, crafted a clean and accessible UI, and optimized the integration with Figma to ensure creators could launch digital collectibles in just a few clicks. My work focused on simplifying the process for both Open and Limited Edition drops, making digital collectibles creation fast and accessible for users of all skill levels.",
+      "attachments": [
+        {
+          "type": "video",
+          "width": 3014,
+          "height": 1694,
+          "url": "/content/media/Bueno-Drops-Figma-Plugin-at-Blush-Design-Inc.mov"
+        }
+      ],
+      "type": "project",
+      "title": "Bueno Drops Figma Plugin",
+      "company": "Blush Design Inc."
+    },
+    {
+      "id": "reXtsr4FOcMqrAFtkrsn",
+      "year": "2022",
+      "heading": "VIP Monkey App at Shine Digital",
+      "url": "https://apps.apple.com/se/app/vip-monkey/id983966318?l=en-GB",
+      "collaborators": [],
+      "description": "I played a key role in redesigning the VIP Monkey app, an iOS and Android platform for event discovery and ticket management. I improved the app’s aesthetics and user experience, focusing on a sleek and intuitive design. Key updates included enhanced event listings, detailed event pages, and QR-based ticket management for seamless entry.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 1125,
+          "url": "/content/media/VIP-Monkey-App-at-Shine-Digital.png"
+        }
+      ],
+      "type": "project",
+      "title": "VIP Monkey App",
+      "company": "Shine Digital"
+    },
+    {
+      "id": "IXWOsknzMY0MGGSqbGB8",
+      "year": "2022",
+      "heading": "Eurovision (Backstage) App at Shine Digital",
+      "url": "https://apps.apple.com/app/ciao22/id1614638545",
+      "collaborators": [],
+      "description": "Designed, coded, and maintained the iOS and Android app for Eurovision (Backstage), used by delegations, crew, and artists from 2016 to 2022.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2000,
+          "height": 1125,
+          "url": "/content/media/Eurovision-Backstage-App-at-Shine-Digital.png"
+        }
+      ],
+      "type": "project",
+      "title": "Eurovision (Backstage) App",
+      "company": "Shine Digital"
+    }
+  ],
+  "sideProjects": [
+    {
+      "id": "fwpn3UxuJL3snHLT2ypj",
+      "year": "Ongoing",
+      "heading": "Hydrify",
+      "url": "https://hydrify.app",
+      "collaborators": [],
+      "description": "Your personalized iOS hydration app. Crafted from a need for better hydration, it offers intuitive design and customized reminders to ensure you drink enough water. Privacy is paramount with Hydrify; all your data stays on your device. With features like daily goals, flexible reminders, and iOS Health integration, Hydrify is dedicated to enhancing your well-being and hydration habits.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2160,
+          "height": 2160,
+          "url": "/content/media/Hydrify-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2160,
+          "height": 2160,
+          "url": "/content/media/Hydrify-2.png"
+        },
+        {
+          "type": "image",
+          "width": 2160,
+          "height": 2160,
+          "url": "/content/media/Hydrify-3.png"
+        },
+        {
+          "type": "image",
+          "width": 2160,
+          "height": 2160,
+          "url": "/content/media/Hydrify-4.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Hydrify",
+      "company": ""
+    },
+    {
+      "id": "ZACij5pHYlgzMIKRZK0R",
+      "year": "Ongoing",
+      "heading": "Titls",
+      "url": "https://apps.apple.com/app/titls/id1579078964",
+      "collaborators": [],
+      "description": "A iOS app that lets you create titles and then use widgets to organize your home screens.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 5120,
+          "height": 2880,
+          "url": "/content/media/Titls.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Titls",
+      "company": ""
+    },
+    {
+      "id": "ep1Wdwj9dZ2YKGp0gkfj",
+      "year": "2024",
+      "heading": "iOS Messages  Stickers Template",
+      "url": "https://www.figma.com/community/file/894284318358585629/ios-message-stickers-template",
+      "collaborators": [
+        {
+          "displayName": "Ilya Kazakov",
+          "profilePhoto": "/content/collaborators/ilyakazakov.jpg",
+          "profileURL": "https://read.cv/ilyakazakov"
+        }
+      ],
+      "description": "A template to get started creating your own iOS Messages stickers.\n\nFor those interested in coding, I've made an open-source [repository](https://github.com/NiklasPeterson/ios-message-stickers-template) to help you build an iOS Messages Sticker app.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3840,
+          "height": 2160,
+          "url": "/content/media/iOS-Messages-Stickers-Template.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "iOS Messages  Stickers Template",
+      "company": ""
+    },
+    {
+      "id": "ugUKNwAlku2Uu9NNd5iG",
+      "year": "2024",
+      "heading": "Timestamps Discord bot",
+      "url": "https://discord.com/application-directory/1031598414280015915",
+      "collaborators": [],
+      "description": "A Discord bot that simplifies generating and formatting timestamps for your Discord chats! Timestamps shared via the bot will automatically adjust to each viewer's local timezone, so you don't have to worry about converting times for different regions. Share event details seamlessly and ensure everyone sees the correct local time, hassle-free.",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Timestamps Discord bot",
+      "company": ""
+    },
+    {
+      "id": "s5blUfgteYbc1iaulTDR",
+      "year": "2021",
+      "heading": "Timestamps",
+      "url": "https://timestamps.app",
+      "collaborators": [],
+      "description": "A web app that helps you generate and format timestamps for sharing on platforms like Discord. With these timestamps, viewers will always see the date and time in their own local timezone, eliminating the need to provide different timezones to your audience.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3200,
+          "height": 1800,
+          "url": "/content/media/Timestamps.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Timestamps",
+      "company": ""
+    }
+  ],
+  "exhibitions": [],
+  "talks": [],
+  "writing": [],
+  "awards": [
+    {
+      "id": "AG1S2IJb3CKlhiPPTsyi",
+      "year": "2024",
+      "heading": "Product of the day 1st from Product Hunt",
+      "url": "https://www.producthunt.com/products/musho#musho",
+      "collaborators": [],
+      "description": "Musho",
+      "attachments": [],
+      "type": "award",
+      "title": "Product of the day 1st",
+      "presenter": "Product Hunt"
+    },
+    {
+      "id": "OW3LJMFGjMQHrlRdTHB1",
+      "year": "2024",
+      "heading": "Product of the day 4th from Product Hunt",
+      "url": "https://www.producthunt.com/products/lummi#lummi",
+      "collaborators": [],
+      "description": "Lummi",
+      "attachments": [],
+      "type": "award",
+      "title": "Product of the day 4th",
+      "presenter": "Product Hunt"
+    },
+    {
+      "id": "G6DEJVHQQvq6BLiNvxW1",
+      "year": "2023",
+      "heading": "Product of the day 5th from Product Hunt",
+      "url": "https://www.producthunt.com/products/buenoverse#buenoverse",
+      "collaborators": [],
+      "description": "Buenoverse",
+      "attachments": [],
+      "type": "award",
+      "title": "Product of the day 5th",
+      "presenter": "Product Hunt"
+    }
+  ],
+  "features": [
+    {
+      "id": "7YBwmfwNWBGaf5cJSl8B",
+      "year": "2024",
+      "heading": "Digest #103 on Read.cv",
+      "url": "https://read.cv/newsletter/103",
+      "collaborators": [],
+      "description": "\"Built from scratch, [Niklas Peterson’s new site](https://niklaspeterson.com/) really does bring digital products to life through pixels and code.\"",
+      "attachments": [],
+      "type": "feature",
+      "title": "Digest #103",
+      "publisher": "Read.cv"
+    }
+  ],
+  "workExperience": [
+    {
+      "id": "woIbfu9ewa65wsxLi7rH",
+      "year": "2024 — Now",
+      "heading": "Senior Prodcut Designer at LottieFiles",
+      "url": "https://lottiefiles.com",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Senior Prodcut Designer",
+      "company": "LottieFiles",
+      "location": "Remote"
+    },
+    {
+      "id": "nzQ7mqvVX7hIiQ2C5Ogi",
+      "year": "2022 — 2024",
+      "heading": "Product Designer at Blush Design Inc.",
+      "url": null,
+      "collaborators": [
+        {
+          "displayName": "Pablo Stanley",
+          "profilePhoto": "/content/collaborators/pablostanley.jpg",
+          "profileURL": "https://read.cv/pablostanley"
+        },
+        {
+          "displayName": "CaptExcellent",
+          "profilePhoto": "/content/collaborators/captexcellent.jpg",
+          "profileURL": "https://read.cv/captexcellent"
+        },
+        {
+          "displayName": "Gaby Araujo",
+          "profilePhoto": "/content/collaborators/gzampino.jpg",
+          "profileURL": "https://read.cv/gzampino"
+        },
+        {
+          "displayName": "Jules Newland",
+          "profilePhoto": "/content/collaborators/julesnewland.jpg",
+          "profileURL": "https://read.cv/julesnewland"
+        }
+      ],
+      "description": "I played a pivotal role in designing key products, including [Bueno](https://Bueno.art), [Musho](https://musho.ai), and [Lummi](https://lummi.ai). My responsibilities included wireframing, creating high-fidelity designs, and ensuring seamless handoffs to developers. I played a key role in enhancing our Figma-based design system, which improved consistency across all components. Additionally, I assembled interactive prototypes and strategically planned user flows, balancing aesthetic appeal with functional goals. My efforts not only enhanced user experience but also streamlined the design process, contributing to successful product launches.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Product Designer",
+      "company": "Blush Design Inc.",
+      "location": "Remote"
+    },
+    {
+      "id": "DUvS9gsD0fsT0lakGbUJ",
+      "year": "2015 — 2022",
+      "heading": "Designer Engineer at Shine Digital",
+      "url": "https://shinedigital.se/",
+      "collaborators": [],
+      "description": "My focus area were designing our CMS, websites, and mobile apps for our clients. Besides designing, I also did a lot of frontend coding, including coding websites & apps using React.js & React-Native and further developing our CMS.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Designer Engineer",
+      "company": "Shine Digital",
+      "location": "Halmstad, Sweden"
+    },
+    {
+      "id": "TtRiY4koL08N1IrE7bMk",
+      "year": "2021 — 2022",
+      "heading": "Project Manager (Part time) at Shine Digital",
+      "url": "https://shinedigital.se",
+      "collaborators": [],
+      "description": "* Planning and managing projects through sprint setup and ticket management.\n\n* Leading the development team to ensure timely, efficient execution.\n\n* Overseeing product development, with a strong focus on budgeting, time management, and strategic planning.\n\n* Regularly communicating with customers to address needs, feature requests, and feedback.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Project Manager (Part time)",
+      "company": "Shine Digital",
+      "location": "Halmstad, Sweden"
+    }
+  ],
+  "volunteering": [],
+  "education": [],
+  "certifications": [
+    {
+      "id": "650lZOQZJvxulrnQyp8V",
+      "year": "2024",
+      "heading": "LottieFiles for Webflow Course from LottieFiles",
+      "url": "https://www.lottie.community/c/lottiefiles-for-webflow-certification/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1534,
+          "height": 1534,
+          "url": "/content/media/LottieFiles-for-Webflow-Course-from-LottieFiles.png"
+        }
+      ],
+      "type": "certification",
+      "name": "LottieFiles for Webflow Course",
+      "organization": "LottieFiles"
+    },
+    {
+      "id": "neXj3I5fDUZVTUPmxqwd",
+      "year": "2024",
+      "heading": "LottieFiles for Framer Course from LottieFiles",
+      "url": "https://www.lottie.community/c/lottiefiles-for-framer-certification/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1534,
+          "height": 1534,
+          "url": "/content/media/LottieFiles-for-Framer-Course-from-LottieFiles.png"
+        }
+      ],
+      "type": "certification",
+      "name": "LottieFiles for Framer Course",
+      "organization": "LottieFiles"
+    },
+    {
+      "id": "xbs6D2lFzbtv6pW95fil",
+      "year": "2024",
+      "heading": "LottieFiles for Figma Course from LottieFiles",
+      "url": "https://www.lottie.community/c/figma-to-lottie",
+      "collaborators": [],
+      "description": "",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 1534,
+          "height": 1534,
+          "url": "/content/media/LottieFiles-for-Figma-Course-from-LottieFiles.png"
+        }
+      ],
+      "type": "certification",
+      "name": "LottieFiles for Figma Course",
+      "organization": "LottieFiles"
+    },
+    {
+      "id": "xtI26XvVTKSis1na54fW",
+      "year": "2023",
+      "heading": "Certification of Interface Design from Shift Nudge",
+      "url": "https://shiftnudge.com",
+      "collaborators": [],
+      "description": "",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 2400,
+          "height": 1500,
+          "url": "/content/media/Certification-of-Interface-Design-from-Shift-Nudge.jpg"
+        }
+      ],
+      "type": "certification",
+      "name": "Certification of Interface Design",
+      "organization": "Shift Nudge"
+    }
+  ],
+  "contact": [
+    {
+      "id": "FetL8rfd5XsWnNZJGqX2",
+      "platform": "Email",
+      "handle": "mail@niklaspeterson.com",
+      "url": "mailto:mail@niklaspeterson.com"
+    },
+    {
+      "id": "qBTUIO4JbU3aYevDAzqh",
+      "platform": "X",
+      "handle": "niklas_peterson",
+      "url": "https://x.com/niklas_peterson"
+    },
+    {
+      "id": "DUh7JSysy6XaP3k6w8l8",
+      "platform": "LinkedIn",
+      "handle": "niklaspeterson",
+      "url": "https://linkedin.com/in/niklaspeterson"
+    },
+    {
+      "id": "sbfNfPsJ7drHDz8z9KLp",
+      "platform": "Threads",
+      "handle": "niklas.peterson",
+      "url": "https://www.threads.net/@niklas.peterson"
+    },
+    {
+      "id": "8Jul0CsgwmIH0XkPDoKN",
+      "platform": "Posts",
+      "handle": "niklaspeterson",
+      "url": "https://posts.cv/niklaspeterson"
+    },
+    {
+      "id": "nQEtnpZsB05szgZt6SKl",
+      "platform": "Figma",
+      "handle": "niklaspeterson",
+      "url": "https://figma.com/@niklaspeterson"
+    },
+    {
+      "id": "I5z1UFpxVDTmIbZ5iric",
+      "platform": "GitHub",
+      "handle": "niklaspeterson",
+      "url": "https://github.com/niklaspeterson"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "ksGEchjW8LdOalPTHDmP",
+          "year": "2024",
+          "heading": "Lummi Figma plugin at Blush Design Inc.",
+          "url": "https://www.figma.com/community/plugin/1326615072959029075/lummi",
+          "collaborators": [],
+          "description": "Designed the Lummi Figma plugin with a focus on usability, simplicity, and ease of use, while ensuring it consistently reflected the Lummi web experience. Key features of the plugin include quick image insertion, the ability to randomly insert multiple images, and components such as the home feed, categories, filters, and creator profiles.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1920,
+              "height": 1080,
+              "url": "/content/media/Lummi-Figma-plugin-at-Blush-Design-Inc-1.png"
+            },
+            {
+              "type": "video",
+              "width": 1280,
+              "height": 720,
+              "url": "/content/media/Lummi-Figma-plugin-at-Blush-Design-Inc-2.mp4"
+            }
+          ],
+          "type": "project",
+          "title": "Lummi Figma plugin",
+          "company": "Blush Design Inc."
+        },
+        {
+          "id": "RVICDv6ekikPRx7fyY70",
+          "year": "2024",
+          "heading": "Lummi web at Blush Design Inc.",
+          "url": "https://lummi.ai",
+          "collaborators": [
+            {
+              "displayName": "CaptExcellent",
+              "profilePhoto": "/content/collaborators/captexcellent.jpg",
+              "profileURL": "https://read.cv/captexcellent"
+            },
+            {
+              "displayName": "Pablo Stanley",
+              "profilePhoto": "/content/collaborators/pablostanley.jpg",
+              "profileURL": "https://read.cv/pablostanley"
+            },
+            {
+              "displayName": "Gaby Araujo",
+              "profilePhoto": "/content/collaborators/gzampino.jpg",
+              "profileURL": "https://read.cv/gzampino"
+            }
+          ],
+          "description": "Designed and implemented the Lummi design system, ensuring consistency and usability across the product. Contributed to major features of the platform, such as filters, image detail view, and upload flow, among others, with a focus on creating a cohesive and efficient user experience throughout the entire product.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 5760,
+              "height": 3240,
+              "url": "/content/media/Lummi-web-at-Blush-Design-Inc-1.png"
+            },
+            {
+              "type": "image",
+              "width": 5760,
+              "height": 3240,
+              "url": "/content/media/Lummi-web-at-Blush-Design-Inc-2.png"
+            },
+            {
+              "type": "image",
+              "width": 5760,
+              "height": 3240,
+              "url": "/content/media/Lummi-web-at-Blush-Design-Inc-3.png"
+            },
+            {
+              "type": "video",
+              "width": 1280,
+              "height": 720,
+              "url": "/content/media/Lummi-web-at-Blush-Design-Inc-4.mp4"
+            }
+          ],
+          "type": "project",
+          "title": "Lummi web",
+          "company": "Blush Design Inc."
+        },
+        {
+          "id": "qPunhHk5K0OjYkrSc1ev",
+          "year": "2023",
+          "heading": "Musho at Blush Design Inc.",
+          "url": "https://musho.ai",
+          "collaborators": [
+            {
+              "displayName": "CaptExcellent",
+              "profilePhoto": "/content/collaborators/captexcellent.jpg",
+              "profileURL": "https://read.cv/captexcellent"
+            },
+            {
+              "displayName": "Pablo Stanley",
+              "profilePhoto": "/content/collaborators/pablostanley.jpg",
+              "profileURL": "https://read.cv/pablostanley"
+            },
+            {
+              "displayName": "Gaby Araujo",
+              "profilePhoto": "/content/collaborators/gzampino.jpg",
+              "profileURL": "https://read.cv/gzampino"
+            }
+          ],
+          "description": "Led the design of the Musho website, incorporating interactive elements and animations to enhance user engagement and overall user experience. Contributed to shaping the brand identity by refining the visual style, color palette, and typography, ensuring a cohesive and recognizable look across all touchpoints. Focused on creating a seamless, visually appealing interface that aligns with the brand’s values and goals.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 1776,
+              "url": "/content/media/Musho-at-Blush-Design-Inc-1.png"
+            },
+            {
+              "type": "video",
+              "width": 1920,
+              "height": 1128,
+              "url": "/content/media/Musho-at-Blush-Design-Inc-2.mov"
+            },
+            {
+              "type": "image",
+              "width": 3840,
+              "height": 2880,
+              "url": "/content/media/Musho-at-Blush-Design-Inc-3.png"
+            },
+            {
+              "type": "image",
+              "width": 3840,
+              "height": 2880,
+              "url": "/content/media/Musho-at-Blush-Design-Inc-4.png"
+            }
+          ],
+          "type": "project",
+          "title": "Musho",
+          "company": "Blush Design Inc."
+        },
+        {
+          "id": "hBhMjSyl1LWtcC2kfJUB",
+          "year": "2023",
+          "heading": "Musho Figma Plugin at Blush Design Inc.",
+          "url": "https://www.figma.com/community/plugin/1302057916867700387/musho-ai",
+          "collaborators": [],
+          "description": "Created various components and views of the Figma plugin. Additionally, designed a concept for the plugin to use a chat-based AI interface instead of an action-based approach.",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 1920,
+              "height": 1128,
+              "url": "/content/media/Musho-Figma-Plugin-at-Blush-Design-Inc.mov"
+            }
+          ],
+          "type": "project",
+          "title": "Musho Figma Plugin",
+          "company": "Blush Design Inc."
+        },
+        {
+          "id": "SvjJBanF3oRTpTrr6aRO",
+          "year": "2023",
+          "heading": "Buenoverse at Blush Design Inc.",
+          "url": "https://worlds.bueno.art",
+          "collaborators": [
+            {
+              "displayName": "CaptExcellent",
+              "profilePhoto": "/content/collaborators/captexcellent.jpg",
+              "profileURL": "https://read.cv/captexcellent"
+            },
+            {
+              "displayName": "Brent Riddell",
+              "profilePhoto": "/content/collaborators/brentriddell.jpg",
+              "profileURL": "https://read.cv/brentriddell"
+            }
+          ],
+          "description": "Designed the UI for avatar selection in Buenoverse, creating an intuitive, visually appealing interface for players and explorers. The design prioritizes ease of use and flexibility, enabling seamless avatar customization with advanced tools and dynamic visuals. I ensured smooth navigation, interactive feedback, and a cohesive aesthetic to enhance the user experience and foster creativity.",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 1920,
+              "height": 1020,
+              "url": "/content/media/Buenoverse-at-Blush-Design-Inc.mov"
+            }
+          ],
+          "type": "project",
+          "title": "Buenoverse",
+          "company": "Blush Design Inc."
+        },
+        {
+          "id": "RJbCfpzKjAYT3IBw8t5S",
+          "year": "2023",
+          "heading": "Bueno Drops Figma Plugin at Blush Design Inc.",
+          "url": "https://www.figma.com/community/plugin/1271396551618777105/bueno-drops",
+          "collaborators": [],
+          "description": "As the lead designer for the Bueno Drops Figma Plugin, I was responsible for creating an intuitive user experience that allows artists to easily convert their designs in Figma into digital art without the need for coding. I streamlined the user flow, crafted a clean and accessible UI, and optimized the integration with Figma to ensure creators could launch digital collectibles in just a few clicks. My work focused on simplifying the process for both Open and Limited Edition drops, making digital collectibles creation fast and accessible for users of all skill levels.",
+          "attachments": [
+            {
+              "type": "video",
+              "width": 3014,
+              "height": 1694,
+              "url": "/content/media/Bueno-Drops-Figma-Plugin-at-Blush-Design-Inc.mov"
+            }
+          ],
+          "type": "project",
+          "title": "Bueno Drops Figma Plugin",
+          "company": "Blush Design Inc."
+        },
+        {
+          "id": "reXtsr4FOcMqrAFtkrsn",
+          "year": "2022",
+          "heading": "VIP Monkey App at Shine Digital",
+          "url": "https://apps.apple.com/se/app/vip-monkey/id983966318?l=en-GB",
+          "collaborators": [],
+          "description": "I played a key role in redesigning the VIP Monkey app, an iOS and Android platform for event discovery and ticket management. I improved the app’s aesthetics and user experience, focusing on a sleek and intuitive design. Key updates included enhanced event listings, detailed event pages, and QR-based ticket management for seamless entry.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 1125,
+              "url": "/content/media/VIP-Monkey-App-at-Shine-Digital.png"
+            }
+          ],
+          "type": "project",
+          "title": "VIP Monkey App",
+          "company": "Shine Digital"
+        },
+        {
+          "id": "IXWOsknzMY0MGGSqbGB8",
+          "year": "2022",
+          "heading": "Eurovision (Backstage) App at Shine Digital",
+          "url": "https://apps.apple.com/app/ciao22/id1614638545",
+          "collaborators": [],
+          "description": "Designed, coded, and maintained the iOS and Android app for Eurovision (Backstage), used by delegations, crew, and artists from 2016 to 2022.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2000,
+              "height": 1125,
+              "url": "/content/media/Eurovision-Backstage-App-at-Shine-Digital.png"
+            }
+          ],
+          "type": "project",
+          "title": "Eurovision (Backstage) App",
+          "company": "Shine Digital"
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "fwpn3UxuJL3snHLT2ypj",
+          "year": "Ongoing",
+          "heading": "Hydrify",
+          "url": "https://hydrify.app",
+          "collaborators": [],
+          "description": "Your personalized iOS hydration app. Crafted from a need for better hydration, it offers intuitive design and customized reminders to ensure you drink enough water. Privacy is paramount with Hydrify; all your data stays on your device. With features like daily goals, flexible reminders, and iOS Health integration, Hydrify is dedicated to enhancing your well-being and hydration habits.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2160,
+              "height": 2160,
+              "url": "/content/media/Hydrify-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2160,
+              "height": 2160,
+              "url": "/content/media/Hydrify-2.png"
+            },
+            {
+              "type": "image",
+              "width": 2160,
+              "height": 2160,
+              "url": "/content/media/Hydrify-3.png"
+            },
+            {
+              "type": "image",
+              "width": 2160,
+              "height": 2160,
+              "url": "/content/media/Hydrify-4.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Hydrify",
+          "company": ""
+        },
+        {
+          "id": "ZACij5pHYlgzMIKRZK0R",
+          "year": "Ongoing",
+          "heading": "Titls",
+          "url": "https://apps.apple.com/app/titls/id1579078964",
+          "collaborators": [],
+          "description": "A iOS app that lets you create titles and then use widgets to organize your home screens.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 5120,
+              "height": 2880,
+              "url": "/content/media/Titls.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Titls",
+          "company": ""
+        },
+        {
+          "id": "ep1Wdwj9dZ2YKGp0gkfj",
+          "year": "2024",
+          "heading": "iOS Messages  Stickers Template",
+          "url": "https://www.figma.com/community/file/894284318358585629/ios-message-stickers-template",
+          "collaborators": [
+            {
+              "displayName": "Ilya Kazakov",
+              "profilePhoto": "/content/collaborators/ilyakazakov.jpg",
+              "profileURL": "https://read.cv/ilyakazakov"
+            }
+          ],
+          "description": "A template to get started creating your own iOS Messages stickers.\n\nFor those interested in coding, I've made an open-source [repository](https://github.com/NiklasPeterson/ios-message-stickers-template) to help you build an iOS Messages Sticker app.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3840,
+              "height": 2160,
+              "url": "/content/media/iOS-Messages-Stickers-Template.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "iOS Messages  Stickers Template",
+          "company": ""
+        },
+        {
+          "id": "ugUKNwAlku2Uu9NNd5iG",
+          "year": "2024",
+          "heading": "Timestamps Discord bot",
+          "url": "https://discord.com/application-directory/1031598414280015915",
+          "collaborators": [],
+          "description": "A Discord bot that simplifies generating and formatting timestamps for your Discord chats! Timestamps shared via the bot will automatically adjust to each viewer's local timezone, so you don't have to worry about converting times for different regions. Share event details seamlessly and ensure everyone sees the correct local time, hassle-free.",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Timestamps Discord bot",
+          "company": ""
+        },
+        {
+          "id": "s5blUfgteYbc1iaulTDR",
+          "year": "2021",
+          "heading": "Timestamps",
+          "url": "https://timestamps.app",
+          "collaborators": [],
+          "description": "A web app that helps you generate and format timestamps for sharing on platforms like Discord. With these timestamps, viewers will always see the date and time in their own local timezone, eliminating the need to provide different timezones to your audience.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3200,
+              "height": 1800,
+              "url": "/content/media/Timestamps.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Timestamps",
+          "company": ""
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "woIbfu9ewa65wsxLi7rH",
+          "year": "2024 — Now",
+          "heading": "Senior Prodcut Designer at LottieFiles",
+          "url": "https://lottiefiles.com",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Senior Prodcut Designer",
+          "company": "LottieFiles",
+          "location": "Remote"
+        },
+        {
+          "id": "nzQ7mqvVX7hIiQ2C5Ogi",
+          "year": "2022 — 2024",
+          "heading": "Product Designer at Blush Design Inc.",
+          "url": null,
+          "collaborators": [
+            {
+              "displayName": "Pablo Stanley",
+              "profilePhoto": "/content/collaborators/pablostanley.jpg",
+              "profileURL": "https://read.cv/pablostanley"
+            },
+            {
+              "displayName": "CaptExcellent",
+              "profilePhoto": "/content/collaborators/captexcellent.jpg",
+              "profileURL": "https://read.cv/captexcellent"
+            },
+            {
+              "displayName": "Gaby Araujo",
+              "profilePhoto": "/content/collaborators/gzampino.jpg",
+              "profileURL": "https://read.cv/gzampino"
+            },
+            {
+              "displayName": "Jules Newland",
+              "profilePhoto": "/content/collaborators/julesnewland.jpg",
+              "profileURL": "https://read.cv/julesnewland"
+            }
+          ],
+          "description": "I played a pivotal role in designing key products, including [Bueno](https://Bueno.art), [Musho](https://musho.ai), and [Lummi](https://lummi.ai). My responsibilities included wireframing, creating high-fidelity designs, and ensuring seamless handoffs to developers. I played a key role in enhancing our Figma-based design system, which improved consistency across all components. Additionally, I assembled interactive prototypes and strategically planned user flows, balancing aesthetic appeal with functional goals. My efforts not only enhanced user experience but also streamlined the design process, contributing to successful product launches.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Product Designer",
+          "company": "Blush Design Inc.",
+          "location": "Remote"
+        },
+        {
+          "id": "DUvS9gsD0fsT0lakGbUJ",
+          "year": "2015 — 2022",
+          "heading": "Designer Engineer at Shine Digital",
+          "url": "https://shinedigital.se/",
+          "collaborators": [],
+          "description": "My focus area were designing our CMS, websites, and mobile apps for our clients. Besides designing, I also did a lot of frontend coding, including coding websites & apps using React.js & React-Native and further developing our CMS.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Designer Engineer",
+          "company": "Shine Digital",
+          "location": "Halmstad, Sweden"
+        },
+        {
+          "id": "TtRiY4koL08N1IrE7bMk",
+          "year": "2021 — 2022",
+          "heading": "Project Manager (Part time) at Shine Digital",
+          "url": "https://shinedigital.se",
+          "collaborators": [],
+          "description": "* Planning and managing projects through sprint setup and ticket management.\n\n* Leading the development team to ensure timely, efficient execution.\n\n* Overseeing product development, with a strong focus on budgeting, time management, and strategic planning.\n\n* Regularly communicating with customers to address needs, feature requests, and feedback.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Project Manager (Part time)",
+          "company": "Shine Digital",
+          "location": "Halmstad, Sweden"
+        }
+      ]
+    },
+    {
+      "name": "Awards",
+      "items": [
+        {
+          "id": "AG1S2IJb3CKlhiPPTsyi",
+          "year": "2024",
+          "heading": "Product of the day 1st from Product Hunt",
+          "url": "https://www.producthunt.com/products/musho#musho",
+          "collaborators": [],
+          "description": "Musho",
+          "attachments": [],
+          "type": "award",
+          "title": "Product of the day 1st",
+          "presenter": "Product Hunt"
+        },
+        {
+          "id": "OW3LJMFGjMQHrlRdTHB1",
+          "year": "2024",
+          "heading": "Product of the day 4th from Product Hunt",
+          "url": "https://www.producthunt.com/products/lummi#lummi",
+          "collaborators": [],
+          "description": "Lummi",
+          "attachments": [],
+          "type": "award",
+          "title": "Product of the day 4th",
+          "presenter": "Product Hunt"
+        },
+        {
+          "id": "G6DEJVHQQvq6BLiNvxW1",
+          "year": "2023",
+          "heading": "Product of the day 5th from Product Hunt",
+          "url": "https://www.producthunt.com/products/buenoverse#buenoverse",
+          "collaborators": [],
+          "description": "Buenoverse",
+          "attachments": [],
+          "type": "award",
+          "title": "Product of the day 5th",
+          "presenter": "Product Hunt"
+        }
+      ]
+    },
+    {
+      "name": "Certifications",
+      "items": [
+        {
+          "id": "650lZOQZJvxulrnQyp8V",
+          "year": "2024",
+          "heading": "LottieFiles for Webflow Course from LottieFiles",
+          "url": "https://www.lottie.community/c/lottiefiles-for-webflow-certification/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1534,
+              "height": 1534,
+              "url": "/content/media/LottieFiles-for-Webflow-Course-from-LottieFiles.png"
+            }
+          ],
+          "type": "certification",
+          "name": "LottieFiles for Webflow Course",
+          "organization": "LottieFiles"
+        },
+        {
+          "id": "neXj3I5fDUZVTUPmxqwd",
+          "year": "2024",
+          "heading": "LottieFiles for Framer Course from LottieFiles",
+          "url": "https://www.lottie.community/c/lottiefiles-for-framer-certification/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1534,
+              "height": 1534,
+              "url": "/content/media/LottieFiles-for-Framer-Course-from-LottieFiles.png"
+            }
+          ],
+          "type": "certification",
+          "name": "LottieFiles for Framer Course",
+          "organization": "LottieFiles"
+        },
+        {
+          "id": "xbs6D2lFzbtv6pW95fil",
+          "year": "2024",
+          "heading": "LottieFiles for Figma Course from LottieFiles",
+          "url": "https://www.lottie.community/c/figma-to-lottie",
+          "collaborators": [],
+          "description": "",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 1534,
+              "height": 1534,
+              "url": "/content/media/LottieFiles-for-Figma-Course-from-LottieFiles.png"
+            }
+          ],
+          "type": "certification",
+          "name": "LottieFiles for Figma Course",
+          "organization": "LottieFiles"
+        },
+        {
+          "id": "xtI26XvVTKSis1na54fW",
+          "year": "2023",
+          "heading": "Certification of Interface Design from Shift Nudge",
+          "url": "https://shiftnudge.com",
+          "collaborators": [],
+          "description": "",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 2400,
+              "height": 1500,
+              "url": "/content/media/Certification-of-Interface-Design-from-Shift-Nudge.jpg"
+            }
+          ],
+          "type": "certification",
+          "name": "Certification of Interface Design",
+          "organization": "Shift Nudge"
+        }
+      ]
+    },
+    {
+      "name": "Features",
+      "items": [
+        {
+          "id": "7YBwmfwNWBGaf5cJSl8B",
+          "year": "2024",
+          "heading": "Digest #103 on Read.cv",
+          "url": "https://read.cv/newsletter/103",
+          "collaborators": [],
+          "description": "\"Built from scratch, [Niklas Peterson’s new site](https://niklaspeterson.com/) really does bring digital products to life through pixels and code.\"",
+          "attachments": [],
+          "type": "feature",
+          "title": "Digest #103",
+          "publisher": "Read.cv"
+        }
+      ]
+    },
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "FetL8rfd5XsWnNZJGqX2",
+          "platform": "Email",
+          "handle": "mail@niklaspeterson.com",
+          "url": "mailto:mail@niklaspeterson.com"
+        },
+        {
+          "id": "qBTUIO4JbU3aYevDAzqh",
+          "platform": "X",
+          "handle": "niklas_peterson",
+          "url": "https://x.com/niklas_peterson"
+        },
+        {
+          "id": "DUh7JSysy6XaP3k6w8l8",
+          "platform": "LinkedIn",
+          "handle": "niklaspeterson",
+          "url": "https://linkedin.com/in/niklaspeterson"
+        },
+        {
+          "id": "sbfNfPsJ7drHDz8z9KLp",
+          "platform": "Threads",
+          "handle": "niklas.peterson",
+          "url": "https://www.threads.net/@niklas.peterson"
+        },
+        {
+          "id": "8Jul0CsgwmIH0XkPDoKN",
+          "platform": "Posts",
+          "handle": "niklaspeterson",
+          "url": "https://posts.cv/niklaspeterson"
+        },
+        {
+          "id": "nQEtnpZsB05szgZt6SKl",
+          "platform": "Figma",
+          "handle": "niklaspeterson",
+          "url": "https://figma.com/@niklaspeterson"
+        },
+        {
+          "id": "I5z1UFpxVDTmIbZ5iric",
+          "platform": "GitHub",
+          "handle": "niklaspeterson",
+          "url": "https://github.com/niklaspeterson"
+        }
+      ]
+    }
+  ]
+}
